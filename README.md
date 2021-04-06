@@ -33,7 +33,7 @@
 - [ ] Create a passion project start-up. :moneybag:
 
 <p align="center">
-	Thanks for visiting my profile. Feel free to reach out to me on Discord at <strong>bluesy#5557</strong> and be sure to check back often to keep up with what I'm up to these days.
+	Thanks for visiting my profile. Feel free to reach out to me on Discord at <strong>Cych#0001</strong> and be sure to check back often to keep up with what I'm up to these days.
 </p>
 
 
