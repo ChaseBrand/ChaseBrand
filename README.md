@@ -19,18 +19,16 @@
 </p>
 
 <p align="center">
-	My primary interests at the moment include reverse engineering video game binaries, microservices development, and constant learning. You can find a list of my 2021 goes below!
+	My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2022 goals below!
 </p>
 
 <h3 align="center">
-	2021 Goals
+	2022 Goals
 </h3>
 
-- [x] Brew the world's best cup of coffee. :coffee:
-- [ ] Graduate college. :scroll:
-- [ ] Contribute to the Linux kernel. :hammer:
-- [ ] Find a small open source project to dedicate to. :bulb:
-- [ ] Create a passion project start-up. :moneybag:
+- [x] Brew the world's best cup of coffee. ☕
+- [ ] Create a startup company. 💰
+- [ ] Open source more projects! 💡
 
 <p align="center">
 	Thanks for visiting my profile. Feel free to reach out to me on Discord at <strong>Cych#0001</strong> and be sure to check back often to keep up with what I'm up to these days.
