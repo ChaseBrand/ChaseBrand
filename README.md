@@ -23,16 +23,11 @@
 </p>
 
 <h3 align="center">
-	2022 Goals
+	2023 Goals
 </h3>
 
 - [x] Brew the world's best cup of coffee. ☕
 - [ ] Create a startup company. 💰
 - [ ] Open source more projects! 💡
-
-<p align="center">
-	Thanks for visiting my profile. Feel free to reach out to me on Discord at <strong>Cych#0001</strong> and be sure to check back often to keep up with what I'm up to these days.
-</p>
-
 
 *Programming logo credits go to [DevIcons](https://github.com/devicons/devicon).*
