@@ -27,7 +27,7 @@
 </h3>
 
 - [x] Brew the world's best cup of coffee. ☕
-- [ ] Create a startup company. 💰
+- [x] Create a startup company. 💰
 - [ ] Open source more projects! 💡
 
 *Programming logo credits go to [DevIcons](https://github.com/devicons/devicon).*
