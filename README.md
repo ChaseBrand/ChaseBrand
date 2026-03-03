@@ -15,19 +15,18 @@
 </p>
 
 <p align="center">
-	I am a Computer Science major who has a passion for programming, gaming, and Linux.
+	I am a Developer and Sysadmin.
 </p>
 
 <p align="center">
-	My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2022 goals below!
+	My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2026 goals below!
 </p>
 
 <h3 align="center">
-	2023 Goals
+	2026 Goals
 </h3>
 
-- [x] Brew the world's best cup of coffee. ☕
-- [x] Create a startup company. 💰
 - [ ] Open source more projects! 💡
+- [ ] Explore energy utility projects on GitHub.
 
 *Programming logo credits go to [DevIcons](https://github.com/devicons/devicon).*
